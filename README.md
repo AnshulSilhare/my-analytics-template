@@ -1,7 +1,7 @@
 <div align="center">
 
-# 📦 [Insert Project Name Here]
-### *[One-line project tagline — e.g., "Optimizing Last-Mile Delivery Costs Through Predictive Analytics"]*
+# 📦 [Project Name]
+### *[One-line project tagline like - "Optimizing Last-Mile Delivery Costs Through Predictive Analytics"]*
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
