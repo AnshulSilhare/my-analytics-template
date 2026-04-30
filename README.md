@@ -305,3 +305,5 @@ Here's a quick **usage guide** so you can deploy this efficiently for every new 
 6. **Connect section** — your LinkedIn, GitHub, and email links
 
 Everything else (Methodology, Architecture, Recommendations, Limitations) follows a consistent pattern — just swap in project-specific content. The `.gitignore` note in the Architecture section is already written to protect you from accidentally committing raw data files.
+
+*This is a test edit*
