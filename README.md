@@ -82,7 +82,7 @@ conda activate env-analytics-core
 
 ## 📬 Contact & Author
 **[Your Name]** 
-* **Role:** [Your Target Role, e.g., Operations & Data Analyst]
-* **LinkedIn:** []
-* **Email:** [anshulsilhare@gmail.com]
+* **Role:** 
+* **LinkedIn:** 
+* **Email:** anshulsilhare@gmail.com
 ```
